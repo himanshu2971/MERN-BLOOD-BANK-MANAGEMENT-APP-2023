@@ -1,0 +1,19 @@
+# Node.js / Express
+/node_modules
+npm-debug.log
+.env
+
+# React
+/build
+/node_modules
+
+# MongoDB
+/.env
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea
+.vscode
